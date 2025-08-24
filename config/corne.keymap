@@ -54,9 +54,9 @@
 
             display-name = "Symbol";
             bindings = <
-&kp TAB    &kp EXCL     &kp AT      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AMPERSAND    &trans     &kp NUMBER_7  &kp N8        &kp N9        &trans    &trans
-&kp LCTRL  &kp HASH     &kp DOLLAR  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE         &kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp BSLH  &kp GRAVE
-&trans     &kp PERCENT  &kp CARET   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp ASTERISK     &kp N0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans    &kp TILDE
+&kp TAB    &kp EXCL     &kp AT      &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AMPERSAND    &kp PLUS   &kp NUMBER_7  &kp N8        &kp N9        &kp EQUAL  &trans
+&kp LCTRL  &kp HASH     &kp DOLLAR  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp PIPE         &kp MINUS  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp BSLH   &kp GRAVE
+&trans     &kp PERCENT  &kp CARET   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp ASTERISK     &kp N0     &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &trans     &kp TILDE
                                     &trans                &trans                 &trans           &trans     &trans        &trans
             >;
         };
